@@ -1,3 +1,1 @@
-# Homework Assignments for SERVSEC class
-
-All assignments are in their respective folders
+This is a application testing if a series of creditcard is valid or not
